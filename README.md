@@ -1,6 +1,6 @@
 ## vatsasree.github.io
 
-#Below are the images for results. The one on the left is the output of state-of-the-art text detection model and it's right counterpart is the output of our Robust fine-tuned model. 
+#Below are the images for results. Images on the left are the outputs of state-of-the-art text detection model and it's right counterparts are the outputs of our Robust fine-tuned model. 
 
 Issue 1 - White space and Ink-bleed predictions
 ![issue1](https://user-images.githubusercontent.com/99678758/211672387-27fce4dd-6c67-4e4d-a0ec-f747d3913b65.png)
