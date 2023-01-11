@@ -28,7 +28,7 @@ Issue 5 - Non-textual objects falsely detected as words
 <details><summary>EXAMPLES FOR MALFORMED GROUND TRUTHS</summary>
 <p>
 
-![badgts](https://user-images.githubusercontent.com/99678758/211672302-cb38cef1-9134-46ad-8ae8-d707fdd7b40d.png)
+![badgts](https://user-images.githubusercontent.com/99678758/211762958-55e766ca-ac43-4a27-a847-ec5093551f01.svg)
 
 </p>
 </details>
