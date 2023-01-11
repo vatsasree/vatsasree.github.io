@@ -2,7 +2,7 @@
 
 # BAD/MALFORMED GROUND TRUTHS
 
-## *Below are the examples for Bad/Malformed ground truths from our Consortium dataset*
+***Below are the examples for Bad/Malformed ground truths from our Consortium dataset***
 ![badgts](https://user-images.githubusercontent.com/99678758/211762958-55e766ca-ac43-4a27-a847-ec5093551f01.svg)
 
 # COMPARATIVE RESULTS
