@@ -6,7 +6,8 @@
 ![badgts](https://user-images.githubusercontent.com/99678758/211762958-55e766ca-ac43-4a27-a847-ec5093551f01.svg)
 
 # COMPARATIVE RESULTS
-***Images on the left are the outputs of state-of-the-art text detection model and it's right counterparts are the outputs of our Robust fine-tuned model. Given below are the examples of each case in which the fine-tuned model performes better over the state-of-the-art. Two examples for each case are shown.***
+***Given below are the examples of each case in which the fine-tuned model performes better over the state-of-the-art. Two examples for each case are shown. 
+Images on the left are the outputs of state-of-the-art text detection model and it's right counterparts are the outputs of our Robust fine-tuned model. ***
 
 Table 1 in the paper clearly shows that the fine-tuned model performs way better in detecting text than the state-of-the-art model on printed Indic text. 
 
