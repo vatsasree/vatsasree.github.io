@@ -2,9 +2,10 @@
 
 **Below are the images for results. Images on the left are the outputs of state-of-the-art text detection model and it's right counterparts are the outputs of our Robust fine-tuned model.**
 
+
 From the above table, it is evident that the fine-tuned model performs way better in detecting text than the state-of-the-art model on printed Indic text. Given below are the examples of each case in which the fine-tuned model performes better over the state-of-the-art. 
 
-Issue 1 - White space and Ink-bleed predictions
+-> *Issue 1 - White space and Ink-bleed predictions*
 ![issue_1](https://user-images.githubusercontent.com/99678758/211768322-b481ed31-c1c5-42c0-925a-33702637612b.svg)
 
 Issue 2 - Multiple words are detected as a single word and vice-versa
