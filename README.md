@@ -5,7 +5,7 @@
 ***Below are the examples for Bad/Malformed ground truths from our Consortium dataset***
 ![badgts](https://user-images.githubusercontent.com/99678758/211762958-55e766ca-ac43-4a27-a847-ec5093551f01.svg)
 <p align="center">
-Fig 1: 
+Fig 1: Examples of bad/malformed ground truths
 </p>
 
 # COMPARATIVE RESULTS
