@@ -4,6 +4,9 @@
 
 From the above table, it is evident that the fine-tuned model performs way better in detecting text than the state-of-the-art model on printed Indic text. Given below are the examples of each case in which the fine-tuned model performes better over the state-of-the-art. 
 
+<details><summary>COMPARATIVE RESULTS</summary>
+<p>
+
 Issue 1 - White space and Ink-bleed predictions
 ![issue1](https://user-images.githubusercontent.com/99678758/211672387-27fce4dd-6c67-4e4d-a0ec-f747d3913b65.png)
 
@@ -19,6 +22,16 @@ Issue 4 - Words towards right-end of the page not detected
 Issue 5 - Non-textual objects falsely detected as words
 ![issue5](https://user-images.githubusercontent.com/99678758/211672344-26e52675-8f20-4443-af5b-d8d03d26c462.png)
 
+</p>
+</details>
+
+<details><summary>EXAMPLES FOR MALFORMED GROUND TRUTHS</summary>
+<p>
+
+![badgts](https://user-images.githubusercontent.com/99678758/211672302-cb38cef1-9134-46ad-8ae8-d707fdd7b40d.png)
+
+</p>
+</details>
 
 
 
